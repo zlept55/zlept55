@@ -16,7 +16,7 @@
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
- <img align="right"  alt="Pic" height="150" style="border-radius:50px;"     src="https://nationalgeographic.pt/images/revistas/192/MACACOS/macacos3A.jpg">
+ <img align="right"  alt="Pic" height="150" style="border-radius:50px;"     src="(https://wallpapers-clan.com/wp-content/uploads/2022/10/skeleton-pfp-23.jpg)">
 </div>
 
 
